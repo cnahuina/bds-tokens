@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+  <color name="color_color_brand_primary_dark">#ff04102b</color>
+  <color name="color_color_brand_primary_darkest">#ff02050d</color>
+  <color name="color_color_brand_primary_light">#ff8c94a4</color>
+  <color name="color_color_brand_primary_lightest">#ffe6e8eb</color>
+  <color name="color_color_brand_primary_medium">#ff061639</color>
+  <color name="color_color_brand_secondary_dark">#ff4f5b12</color>
+  <color name="color_color_brand_secondary_darkest">#ff252a08</color>
+  <color name="color_color_brand_secondary_light">#ffe9f7a0</color>
+  <color name="color_color_brand_secondary_lightest">#fffafdea</color>
+  <color name="color_color_brand_secondary_medium">#ffd0ee30</color>
+  <color name="color_color_feedback_critical_dark">#ffac040a</color>
+  <color name="color_color_feedback_critical_darkest">#ff730307</color>
+  <color name="color_color_feedback_critical_light">#fff59b9e</color>
+  <color name="color_color_feedback_critical_lightest">#fffacdcf</color>
+  <color name="color_color_feedback_critical_medium">#ffe5050d</color>
+  <color name="color_color_feedback_informative_dark">#ff1945bf</color>
+  <color name="color_color_feedback_informative_darkest">#ff112e80</color>
+  <color name="color_color_feedback_informative_light">#ff4d7dff</color>
+  <color name="color_color_feedback_informative_lightest">#ffd3deff</color>
+  <color name="color_color_feedback_informative_medium">#ff215cff</color>
+  <color name="color_color_feedback_success_dark">#ff05803d</color>
+  <color name="color_color_feedback_success_darkest">#ff035629</color>
+  <color name="color_color_feedback_success_light">#ff38bc74</color>
+  <color name="color_color_feedback_success_lightest">#ffcdeedc</color>
+  <color name="color_color_feedback_success_medium">#ff06ab51</color>
+  <color name="color_color_feedback_warning_dark">#ffbf6c0b</color>
+  <color name="color_color_feedback_warning_darkest">#ff804807</color>
+  <color name="color_color_feedback_warning_light">#ffffa63e</color>
+  <color name="color_color_feedback_warning_lightest">#ffffe9cf</color>
+  <color name="color_color_feedback_warning_medium">#ffff900e</color>
+  <color name="color_color_interactive1_dark">#ff04102b</color>
+  <color name="color_color_interactive1_darkest">#ff02050d</color>
+  <color name="color_color_interactive1_light">#ff8c94a4</color>
+  <color name="color_color_interactive1_lightest">#ffe6e8eb</color>
+  <color name="color_color_interactive1_medium">#ff061639</color>
+  <color name="color_color_interactive2_dark">#ff3721a9</color>
+  <color name="color_color_interactive2_darkest">#ff201464</color>
+  <color name="color_color_interactive2_light">#ffad9ff7</color>
+  <color name="color_color_interactive2_lightest">#ffedeafd</color>
+  <color name="color_color_interactive2_medium">#ff4d2fee</color>
+  <color name="color_color_neutral_dark">#ff484848</color>
+  <color name="color_color_neutral_darkest">#ff121212</color>
+  <color name="color_color_neutral_light">#fff2f2f2</color>
+  <color name="color_color_neutral_lightest">#ffffffff</color>
+  <color name="color_color_neutral_medium">#ffacacac</color>
+  <string name="content_font_family_primary">Montserrat</string>
+  <string name="content_font_family_secondary">Montserrat</string>
+  <string name="content_font_line_height_base">100%</string>
+  <string name="content_font_line_height_distant">150%</string>
+  <string name="content_font_line_height_superdistant">180%</string>
+  <string name="content_font_line_height_tight">120%</string>
+  
+</resources>
